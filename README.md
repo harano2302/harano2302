@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**harano2302/harano2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem vindo (a) ao meu perfil 💙💙
 
-Here are some ideas to get you started:
+Meu nome é Alessandra Emi Harano
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou estudando na Alura
+-Estou me desenvolvendo no linguagem JavaScript
+-Utilizo esse espaço para as minhas organização e compartilhamento dos meus projetos e desenvolvidos
+
+Você pode entar em contato comigo 📫
+
+alessandra.harano@escola.pr.gov.br
+
+@harano_emi
